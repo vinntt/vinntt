@@ -21,12 +21,12 @@
 
 ## Technologies⚙️
 
-### Languages✍🏼
+### Languages, Frameworks and Libraries ✍🏼
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/16/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <!--   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> -->
 <!--   <img src="https://img.icons8.com/color/35/000000/css3.png"/>  -->
 <!--   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>  -->
   
-### DevOps & Cloud Tools⚒️
+### Tools⚒️
 
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/64/000000/canva-app.png"/>
