@@ -5,9 +5,13 @@
 
 🌱 I am currently focusing on **HTML | CSS | Bootstrap | Javascript (ES6)| React | VueJS | ExpressJs | NodeJs | MongoDb | Axios** and eager to learn new things.
 
+💻 I enjoy building awesome **softwares** and **websites** that solve practical problems.
+
 🎯 My Goal is to be a **Web Developer** and a **Women** in **Tech**.
 
 ✨ My background is **Project Management** and **Team Assistant**. I'm quite familiar with **Agile, Scrum, Kanban** working concept.
+
+👀 When I am not at my desk, you can find me in the kitchen 🍔🍜🍣🍸🍻☕. I also like to spend time on my bike 🚴 and on a trip with my backpack 🎒. 
 
 ## Connect With Me👋🏼
 <p align="left">  
