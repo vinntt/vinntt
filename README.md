@@ -1,9 +1,9 @@
 # Hi, I'm Vinh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## About Me 👩🏻 💻
 
-🎓 I am currently rolling a **9-week intensive coding bootcamp** at **Ironhack**.
+🎓 I am currently learning and improving my coding skills.
 
-🌱 I am currently focusing on **HTML | CSS | Bootstrap | Javascript (ES6)| React | VueJS | ExpressJs | NodeJs | MongoDb | Axios** and eager to learn new things.
+🌱 I am currently focusing on **HTML | CSS | Bootstrap | Javascript (ES6)| React | ExpressJs | NodeJs | MongoDb | Axios** and eager to learn new things.
 
 💻 I enjoy building awesome **softwares** and **websites** that solve practical problems.
 
@@ -22,7 +22,7 @@
 ## Technologies⚙️
 
 ### Languages, Frameworks and Libraries ✍🏼
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/16/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/16/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <!--   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> -->
 <!--   <img src="https://img.icons8.com/color/35/000000/css3.png"/>  -->
 <!--   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>  -->
