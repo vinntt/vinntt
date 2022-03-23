@@ -1,8 +1,5 @@
 # Hi, I'm Vinh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- <a href="mailto:vinh.nguyen.ins@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>  
- <a href="https://www.linkedin.com/in/vinntt/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/> </a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinntt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="vinntt" /></p>
+ <a href="mailto:vinh.nguyen.ins@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>  <a href="https://www.linkedin.com/in/vinntt/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/> </a>
 
 ## About Me 👩🏻 💻
 
