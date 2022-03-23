@@ -15,12 +15,6 @@
 
 👀 When I am not at my desk, you can find me in the kitchen 🍔🍜🍣🍸🍻☕. I also like to spend time on my bike 🚴 and on a trip with my backpack 🎒. 
 
-## Connect With Me👋🏼
-<p align="left">  
-<a href="/" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://www.linkedin.com/in/vickynguyen-ins/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-
-
 ## Technologies⚙️
 
 ### Languages, Frameworks and Libraries ✍🏼
