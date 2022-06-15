@@ -1,4 +1,5 @@
-# Hi, I'm Vinh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3px">
+# Hi, I'm Vinh <img src="https://tenor.com/view/hola-hi-hello-waving-emoji-gif-15969446" width="3px">
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3px"> -->
  <a href="mailto:vinh.nguyen.ins@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>  <a href="https://www.linkedin.com/in/vinntt/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/> </a>
 
 ## About Me 👩🏻 💻
